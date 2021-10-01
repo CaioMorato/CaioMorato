@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Morato</h1>
 <h3 align="center">
-  Passionate about Science, innovation and technology. Currently studying to be a Fullstack
+  Passionate about Science, innovation, and technology. Currently studying to be a Fullstack
   Developer at Trybe.
 </h3>
 
